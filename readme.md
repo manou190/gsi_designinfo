@@ -1,6 +1,6 @@
 # Bonjour GSI
 
-Je m'appelle E. Reyes.
+Je m'appelle B.manel.
 Ce dossier contient tous les fichiers, images fait dans le cours Design Info.
 
 Dans le cadre de la formation [GSI]([https://www.example.com](https://humanites-numeriques.univ-paris8.fr/-Master-G-S-I-)https://humanites-numeriques.univ-paris8.fr/-Master-G-S-I-)
